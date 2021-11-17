@@ -1,0 +1,5 @@
+C:\Users\kamil.durst\Downloads\APLIKACJA\CopyFilesApp.exe
+C:\Users\kamil.durst\Downloads\APLIKACJA\CopyFilesApp.dll
+C:\Users\kamil.durst\Downloads\APLIKACJA\CopyFilesApp.deps.json
+C:\Users\kamil.durst\Downloads\APLIKACJA\CopyFilesApp.runtimeconfig.json
+C:\Users\kamil.durst\Downloads\APLIKACJA\CopyFilesApp.pdb

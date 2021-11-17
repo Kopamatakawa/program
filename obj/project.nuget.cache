@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MtcbC4clCdNerY711+xaswv9CMDMEh2e1OzQAe4f13GdiRYHaMI776uRlPBRlWS8lB9NmS5v+vXNBG0UblmCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamil.durst\\Downloads\\CopyFilesApp\\CopyFilesApp\\CopyFilesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil.durst\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
